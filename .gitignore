@@ -1,0 +1,6 @@
+__pycache__/
+.env
+last_ip.txt
+last_ip.txt.tmp
+last_ip.lock
+bot.log
